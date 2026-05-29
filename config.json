@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtersrocess",
+        "uuid": 1000835,
+        "checksum": "hpdnbt"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
